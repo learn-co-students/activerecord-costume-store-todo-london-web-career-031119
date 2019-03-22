@@ -16,6 +16,7 @@ end
 DatabaseTasks.seed_loader = seed_loader.new
 load 'active_record/railties/databases.rake'
 
+desc 'Start our app console'
 task :console => :environment do
   Pry.start
 end

@@ -1,0 +1,43 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Learn.co Educational Content License	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/LICENSE.md	/^#Learn.co Educational Content License$/;"	function	line:1
+__	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/spec/spec_helper.rb	/^def __$/;"	method	line:15
+clear_db	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/spec/spec_helper.rb	/^def clear_db$/;"	method	line:19
+get_opening_time	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/spec/spec_helper.rb	/^def get_opening_time$/;"	method	line:23
+get_closing_time	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/spec/spec_helper.rb	/^def get_closing_time$/;"	method	line:28
+get_description	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/spec/spec_helper.rb	/^def get_description$/;"	method	line:33
+Active Record Costume Store	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/README.md	/^# Active Record Costume Store$/;"	function	line:1
+Contents	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/README.md	/^## Contents$/;"	function	line:3
+Objectives	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/README.md	/^## Objectives$/;"	function	line:13
+Active Record	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/README.md	/^## Active Record$/;"	function	line:49
+Migrations	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/README.md	/^#### Migrations$/;"	function	line:57
+Models	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/README.md	/^#### Models$/;"	function	line:99
+Example	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/README.md	/^#### Example$/;"	function	line:126
+=>	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/README.md	/^# => #<Candy id: 3, name: "Reese's Peanut Butter Cups", calories: 210>$/;"	function	line:169
+=>	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/README.md	/^# => #<Candy id: 1, name: "Mikly Way Midnight", calories: 220>$/;"	function	line:171
+=>	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/README.md	/^# => #<Candy id: 2, name: "Snickers", calories: 550>$/;"	function	line:173
+=>	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/README.md	/^# => #<Candy id: 3, name: "Reeeese's Peanut Batter Cups", calories: 210>$/;"	function	line:180
+=> 210	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/README.md	/^# => 210$/;"	function	line:182
+=> "Reeeese's Peanut Batter Cups"	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/README.md	/^# => "Reeeese's Peanut Batter Cups"$/;"	function	line:184
+=>	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/README.md	/^# => #<Candy id: 2, name: "Snickers", calories: 550>$/;"	function	line:191
+=> true	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/README.md	/^# => true$/;"	function	line:193
+=>	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/README.md	/^# => #<Candy id: 3, name: "Reeeese's Peanut Batter Cups", calories: 210>$/;"	function	line:196
+=> true	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/README.md	/^# => true$/;"	function	line:198
+=>	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/README.md	/^# => #<Candy id: 2, name: "Snickers", calories: 250>$/;"	function	line:201
+=>	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/README.md	/^# => #<Candy id: 3, name: "Reese's Peanut Butter Cups", calories: 210>$/;"	function	line:203
+Instructions	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/README.md	/^## Instructions$/;"	function	line:208
+File Structure	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/README.md	/^#### File Structure$/;"	function	line:210
+Getting Started	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/README.md	/^#### Getting Started$/;"	function	line:227
+Resources	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/README.md	/^## Resources$/;"	function	line:243
+load_seed	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/Rakefile	/^  def load_seed$/;"	method	line:12
+Contributing to Learn.co Curriculum	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/CONTRIBUTING.md	/^# Contributing to Learn.co Curriculum$/;"	function	line:1
+Raising an Issue to Encourage a Contribution	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/CONTRIBUTING.md	/^## Raising an Issue to Encourage a Contribution$/;"	function	line:5
+Submitting a Pull Request to Suggest an Improvement	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/CONTRIBUTING.md	/^## Submitting a Pull Request to Suggest an Improvement$/;"	function	line:13
+Why Contribute?	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/CONTRIBUTING.md	/^# Why Contribute?$/;"	function	line:25
+ConnectionAdapter	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/lib/support/connection_adapter.rb	/^class ConnectionAdapter$/;"	class	line:1
+initialize	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/lib/support/connection_adapter.rb	/^  def initialize(database, adapter="sqlite3")$/;"	method	line:4	class:ConnectionAdapter
+connect!	/Users/manon/Development/code/activerecord-costume-store-todo-london-web-career-031119/lib/support/connection_adapter.rb	/^  def connect!$/;"	method	line:9	class:ConnectionAdapter
